@@ -47,15 +47,10 @@ i'm a beginner java developer
 
 
 ## connect with me
-<div>
+<div align="center">
   <a href="https://t.me/anti_anime_anime_club" target="_blank">
     <img src=https://img.shields.io/badge/-telegram-grey?color=grey&logo=telegram&logoColor=blue alt=telegram style="margin-bottom: 5px;" />
   </a>
-</div>  
-  
-<div>
   <img src=https://img.shields.io/badge/-grey?color=grey&logo=discord&label=Todoshi%231896 alt=discord style="margin-bottom: 5px;" />
-</div>  
-
-<br/>
+</div>
 
