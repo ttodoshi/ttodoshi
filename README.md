@@ -1,4 +1,4 @@
-# hellow world 👋
+# hello world 👋
 
 ## about me
 
