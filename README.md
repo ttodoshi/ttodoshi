@@ -52,6 +52,6 @@ i'm a java developer
   <a href="https://t.me/anti_anime_anime_club" target="_blank">
     <img src=https://img.shields.io/badge/-telegram-grey?color=grey&logo=telegram&logoColor=blue alt=telegram style="margin-bottom: 5px;" />
   </a>
-  <img src=https://img.shields.io/badge/todoshi%231896-grey?color=grey&logo=discord alt=discord style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/f.todoshi-grey?color=grey&logo=discord alt=discord style="margin-bottom: 5px;" />
 </div>
 
