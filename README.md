@@ -22,8 +22,16 @@ i'm a backend developer
 
 <div align="center">
     <a href="https://t.me/anti_anime_anime_club" target="_blank">
-        <img src=https://img.shields.io/badge/-telegram-grey?color=grey&logo=telegram&logoColor=blue alt=telegram style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/-telegram-grey?color=grey&logo=telegram&logoColor=blue" alt="telegram" />
     </a>
-    <img src=https://img.shields.io/badge/f.todoshi-grey?color=grey&logo=discord alt=discord style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/f.todoshi-grey?color=grey&logo=discord" alt="discord" />
+</div>
+
+---
+
+<div align="center">
+    <a href="https://leetcode.com/ttodoshi/" target="_blank">
+        <img src="https://leetcode-stats-six.vercel.app/api?username=ttodoshi&theme=dark" alt="todoshi's leetcode stats">
+    </a>
 </div>
 
