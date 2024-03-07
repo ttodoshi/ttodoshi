@@ -36,7 +36,7 @@ i'm a backend developer
 
 <div align="center">
     <a href="https://leetcode.com/ttodoshi/" target="_blank">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=ttodoshi&theme=dark" alt="todoshi's leetcode stats">
+        <img src="https://leetcard.jacoblin.cool/ttodoshi?border=0&theme=dark" alt="todoshi's leetcode stats">
     </a>
 </div>
 
